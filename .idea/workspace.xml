@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca9ed956-5851-44c7-9368-c19596d7dc61" name="Default Changelist" comment="" />
+    <list default="true" id="ca9ed956-5851-44c7-9368-c19596d7dc61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +89,7 @@
       <workItem from="1565487368915" duration="77000" />
       <workItem from="1565675987215" duration="170000" />
       <workItem from="1566001590737" duration="316000" />
-      <workItem from="1566706180452" duration="657000" />
+      <workItem from="1566706180452" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="removed location from table">
       <created>1564987106835</created>
@@ -179,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566706452186</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added positions">
+      <created>1566707125583</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1566707125583</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +220,7 @@
     <MESSAGE value="removed aishik's github link" />
     <MESSAGE value="added .tech domains to sponsors" />
     <MESSAGE value="reordered profile icons, added david's Github" />
-    <option name="LAST_COMMIT_MESSAGE" value="reordered profile icons, added david's Github" />
+    <MESSAGE value="added positions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added positions" />
   </component>
 </project>
