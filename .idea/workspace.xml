@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9ed956-5851-44c7-9368-c19596d7dc61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/html5up-stellar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html5up-stellar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +44,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -90,6 +101,8 @@
       <workItem from="1565675987215" duration="170000" />
       <workItem from="1566001590737" duration="316000" />
       <workItem from="1566706180452" duration="1226000" />
+      <workItem from="1566762727575" duration="523000" />
+      <workItem from="1566769795401" duration="1192000" />
     </task>
     <task id="LOCAL-00001" summary="removed location from table">
       <created>1564987106835</created>
@@ -189,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566707125583</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="removed aishik's name">
+      <created>1566762760869</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1566762760869</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +220,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -221,6 +243,7 @@
     <MESSAGE value="added .tech domains to sponsors" />
     <MESSAGE value="reordered profile icons, added david's Github" />
     <MESSAGE value="added positions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added positions" />
+    <MESSAGE value="removed aishik's name" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed aishik's name" />
   </component>
 </project>
