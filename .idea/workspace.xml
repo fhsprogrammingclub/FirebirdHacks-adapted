@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9ed956-5851-44c7-9368-c19596d7dc61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html5up-stellar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html5up-stellar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,13 +15,6 @@
     <execution>
       <executable />
     </execution>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>tr</find>
-      <find>table</find>
-      <find>a {</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,7 +90,11 @@
       <workItem from="1566001590737" duration="316000" />
       <workItem from="1566706180452" duration="1226000" />
       <workItem from="1566762727575" duration="523000" />
-      <workItem from="1566769795401" duration="1192000" />
+      <workItem from="1566769795401" duration="1223000" />
+      <workItem from="1567046116274" duration="616000" />
+      <workItem from="1567126739593" duration="592000" />
+      <workItem from="1567143947005" duration="620000" />
+      <workItem from="1567318699803" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="removed location from table">
       <created>1564987106835</created>
@@ -209,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566762760869</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="removed some pages">
+      <created>1566785458363</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1566785458363</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +243,7 @@
     <MESSAGE value="reordered profile icons, added david's Github" />
     <MESSAGE value="added positions" />
     <MESSAGE value="removed aishik's name" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed aishik's name" />
+    <MESSAGE value="removed some pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed some pages" />
   </component>
 </project>
