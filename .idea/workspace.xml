@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9ed956-5851-44c7-9368-c19596d7dc61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/uvsp.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +103,7 @@
       <workItem from="1567971142838" duration="143000" />
       <workItem from="1567997829518" duration="6000" />
       <workItem from="1570422668181" duration="1598000" />
-      <workItem from="1571104653267" duration="1461000" />
+      <workItem from="1571104653267" duration="1767000" />
     </task>
     <task id="LOCAL-00001" summary="removed location from table">
       <created>1564987106835</created>
@@ -226,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567319294089</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added new prospectus, removed maps">
+      <created>1571106599156</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571106599156</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +269,7 @@
     <MESSAGE value="removed aishik's name" />
     <MESSAGE value="removed some pages" />
     <MESSAGE value="updated positions" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated positions" />
+    <MESSAGE value="added new prospectus, removed maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new prospectus, removed maps" />
   </component>
 </project>
