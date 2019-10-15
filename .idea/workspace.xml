@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca9ed956-5851-44c7-9368-c19596d7dc61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/uvsp.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -27,8 +28,11 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1PWtGhm2HZ0TnqQnmccoycCFphy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -94,7 +98,14 @@
       <workItem from="1567046116274" duration="616000" />
       <workItem from="1567126739593" duration="592000" />
       <workItem from="1567143947005" duration="620000" />
-      <workItem from="1567318699803" duration="266000" />
+      <workItem from="1567318699803" duration="711000" />
+      <workItem from="1567320384779" duration="1193000" />
+      <workItem from="1567732205194" duration="71000" />
+      <workItem from="1567923789692" duration="1689000" />
+      <workItem from="1567971142838" duration="143000" />
+      <workItem from="1567997829518" duration="6000" />
+      <workItem from="1570422668181" duration="1598000" />
+      <workItem from="1571104653267" duration="1461000" />
     </task>
     <task id="LOCAL-00001" summary="removed location from table">
       <created>1564987106835</created>
@@ -208,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566785458363</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="updated positions">
+      <created>1567319294089</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1567319294089</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +246,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="removed location from table" />
     <MESSAGE value="added personal links" />
     <MESSAGE value="removed template reference" />
@@ -244,6 +263,7 @@
     <MESSAGE value="added positions" />
     <MESSAGE value="removed aishik's name" />
     <MESSAGE value="removed some pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed some pages" />
+    <MESSAGE value="updated positions" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated positions" />
   </component>
 </project>
