@@ -106,6 +106,8 @@
       <workItem from="1571104653267" duration="1767000" />
       <workItem from="1571107210621" duration="707000" />
       <workItem from="1571369699721" duration="8000" />
+      <workItem from="1574049127355" duration="192000" />
+      <workItem from="1574050220353" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="removed location from table">
       <created>1564987106835</created>
@@ -240,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571107338664</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="updated sponsorship prospectus">
+      <created>1574049139863</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1574049139863</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +289,7 @@
     <MESSAGE value="updated positions" />
     <MESSAGE value="added new prospectus, removed maps" />
     <MESSAGE value="replaced sponsorship email" />
-    <option name="LAST_COMMIT_MESSAGE" value="replaced sponsorship email" />
+    <MESSAGE value="updated sponsorship prospectus" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated sponsorship prospectus" />
   </component>
 </project>
